@@ -1,7 +1,3 @@
 https://discord.gg/SWQdS8Xv
 
-DAO focada no ensino de sobre financeias decentralizadas e criação de renda extra.
-A DAO recebera uma mensalidade dos seus participantes de 10 dolares, esse dinheiro
-será convertido para a propria comunidade atravez de uma pool, apartir de campanhas de airdrops, 
-os participantes serão introduzido para farmarem airdrops e todo os ganhos atravez da pool serão distribuidos igualmente entre todo os contribuintes
-os snapshots serão tirados assim que a campanha do airdrops se iniciar e todos os que contribuiram até aquele momento receberam partes dos ganhos
+DAO Base da Pirâmide, o objetivo da DAO é ensinar sobre financias decentralizadas e ajudar a criar uma renda usando DeFi através de Airdrops, será cobrado uma mensalidade de 10 dolares por integrante e o montante será utilizada para formar uma pool, está pool será utilizada para farmar airdrops, todo o valor recebido dos farms serão devolvidos para a comunidade, os snapshots serão tirados assim que a participação no airdrop começar e ficará elegível para receber a recompensa todos que tiverem contribuídos naquele mês.
