@@ -1,0 +1,5 @@
+# NFT_Opensea
+desafio bootcamp_Dio_Binance
+
+Skin minecraft chique e confortavel
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55589702988978325336895385201958600516488999735421524572238912680662598156289
